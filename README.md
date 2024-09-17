@@ -1,6 +1,11 @@
-<p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/userandaname/BlueSky/main/assets/images/bluesky.png?s=500&v=4" />
-</p>
+<h1 align="center">
+  <div align="center">
+    <br />
+    <p>
+      <img width="250" src="https://raw.githubusercontent.com/userandaname/BlueSky/main/assets/images/bluesky.png?s=100&v=4" />
+    </p>
+  </div>
+</h1>
 
 <h1 align="center">
     <p align="center">
